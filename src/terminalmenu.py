@@ -19,11 +19,7 @@ class TerminalMenu:
 
     TerminalMenu(display, options=None, back=False)
 
-<<<<<<< HEAD
-    Arguments:``
-=======
     Arguments:
->>>>>>> adcb11a23ad1a19c4c05ff03fb54e1bb918d0cca
         prompt (str): Menu prompt to be displayed above options.
         options (list): A list of option dictionaries.
                         An option dictionary consists of two mandatory keys,
